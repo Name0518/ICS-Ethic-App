@@ -13,4 +13,6 @@ public class MultipleChoice extends Question {
         super(name);
         this.answer = answer;
     }
+    
+    
 }
